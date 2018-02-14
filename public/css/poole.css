@@ -70,6 +70,11 @@ a {
   color: #357eb2;
   text-decoration: none;
 }
+a:link,
+a:visited,
+a:active {
+  color: #357eb2;
+}
 a strong {
   color: inherit;
 }
