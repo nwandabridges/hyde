@@ -5,7 +5,7 @@ layout: post
 
 ![](/public/37325638670_c4b908aa4f_o.jpg "here's an image of me with no stuff")
 
-**I’ve Moved**
+**I’ve Moved**  
 [Gary the Privacy Concern Clown](https://twitter.com/hotdogsladies/status/857837608046436354?lang=en) warned me that I shouldn't share this information, but I'm sharing it anyway. **I moved last week.**  
   
 Like any big change, the *idea* of moving makes me uncomfortable. The anticpation of schlepping all of those boxes downstairs, into a truck, and up a different set of stairs makes me want to curl up in the fetal position.  
