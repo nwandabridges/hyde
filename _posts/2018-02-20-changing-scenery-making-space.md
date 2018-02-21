@@ -19,5 +19,5 @@ How much of this stuff do I actually need? Does caring for this *thing* require 
   
 **It's time to get rid of the crap and make space for the things I care about.**  
   
-> “Have nothing in your homes that you do not know to be useful or believe to be beautiful.”
+> “Have nothing in your homes that you do not know to be useful or believe to be beautiful.”  
 > *William Morris*
