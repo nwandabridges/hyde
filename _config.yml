@@ -20,7 +20,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          0.0.2
+version:          0.0.3
 
 github:
   repo:           https://github.com/nwandabridges/nwandabridges.github.io
