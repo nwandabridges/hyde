@@ -19,6 +19,9 @@ author:
 
 paginate:         5
 
+plugins:
+  - jekyll-sitemap
+
 # Custom vars
 version:          0.0.3
 
